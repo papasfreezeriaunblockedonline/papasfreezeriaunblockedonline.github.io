@@ -283,8 +283,27 @@
             <a href="https://magbei.com/play-papas-freezeria-game-online/" target="new">Play Papa’s Freezeria Now</a>
           </section>
         </div>
-        <h2 class="u-text u-text-default u-text-1"> Frequently Asked Questions<br>
-        </h2>
+<h2 class="u-text u-text-default u-text-1">Frequently Asked Questions</h2>
+
+<div class="faq-accordion">
+  <div class="faq-item">
+    <button class="faq-question">1. How do you play Papa's Freezeria?</button>
+    <div class="faq-answer">
+      <p>Gameplay involves managing four stations: Order (take customer orders), Build (add ice cream, mixables, and syrups), Mix (blend the sundae), and Top (add whipped cream and toppings). Follow customer tickets accurately and quickly to earn high scores and tips. <a href="https://magbei.com/play-papas-freezeria-game-online/" target="_blank"><strong>Play Papa’s Freezeria online game free</strong></a>.</p>
+    </div>
+  </div>
+  <div class="faq-item">
+    <button class="faq-question">2. Can you play Papa's Freezeria without Flash Player?</button>
+    <div class="faq-answer">
+      <p>Yes, you can play Papa's Freezeria without Flash on sites like Coolmath Games and CrazyGames. They use emulation technology to run the game in modern browsers.</p>
+    </div>
+  </div>
+  <div class="faq-item">
+    <button class="faq-question">3. Why isn't Papa's Freezeria working?</button>
+    <div class="faq-answer">
+      <p>If the game isn't working, make sure you're using a desktop browser like Chrome or Firefox, clear your cache, and disable ad blockers. Try <a href="https://magbei.com/play-papas-freezeria-game-online/" target="_blank"><strong>playing it here</strong></a>.</p>
+    </div>
+  </div>
         <div class="u-accordion u-expanded-width u-accordion-1">
           <div class="u-accordion-item">
             <a class="active u-accordion-link u-button-style" id="link-40c7" aria-controls="40c7" aria-selected="true"><span class="u-accordion-link-text"> 1. How do you play Papa's Freezeria?</span>
@@ -484,6 +503,58 @@
         </div>
       </div>
     </section>
+</div>
+
+<style>
+  .faq-accordion {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .faq-item {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .faq-question {
+    background: #f7f7f7;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+  }
+
+  .faq-question:hover {
+    background: #eaeaea;
+  }
+
+  .faq-answer {
+    padding: 15px;
+    display: none;
+    background-color: #fff;
+  }
+
+  .faq-answer p {
+    margin: 0;
+  }
+
+  .faq-item.active .faq-answer {
+    display: block;
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.faq-question').forEach(button => {
+    button.addEventListener('click', () => {
+      const item = button.parentElement;
+      item.classList.toggle('active');
+    });
+  });
+</script>
     
     
     
