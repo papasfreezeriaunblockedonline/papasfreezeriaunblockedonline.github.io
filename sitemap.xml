@@ -1,26 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
     <loc>https://papasfreezeriaunblockedonline.github.io/</loc>
-    <lastmod>2025-04-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2025-04-27</lastmod>
   </url>
+
+  <!-- Index (index.html) -->
+  <url>
+    <loc>https://papasfreezeriaunblockedonline.github.io/index.html</loc>
+    <lastmod>2025-04-27</lastmod>
+  </url>
+
+  <!-- History Page -->
+  <url>
+    <loc>https://papasfreezeriaunblockedonline.github.io/history.html</loc>
+    <lastmod>2025-04-27</lastmod>
+  </url>
+
+  <!-- How to Play -->
   <url>
     <loc>https://papasfreezeriaunblockedonline.github.io/how-to-play-papas-freezeria.html</loc>
-    <lastmod>2025-04-15</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
+    <lastmod>2025-04-27</lastmod>
   </url>
+
+  <!-- Versions -->
   <url>
     <loc>https://papasfreezeriaunblockedonline.github.io/versions.html</loc>
-    <lastmod>2025-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2025-04-27</lastmod>
   </url>
+
+  <!-- Unblocked Page -->
   <url>
     <loc>https://papasfreezeriaunblockedonline.github.io/papas-freezeria-unblocked.html</loc>
-    <lastmod>2025-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <lastmod>2025-04-27</lastmod>
   </url>
+
 </urlset>
