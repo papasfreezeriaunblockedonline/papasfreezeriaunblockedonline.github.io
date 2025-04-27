@@ -267,7 +267,21 @@
           </div>
         </nav>
         <p class="u-text u-text-default u-text-1">Papa's Freezeria Fan Site</p>
-      </div></header>
+      </div>
+  
+   <script>
+  // Script Accordion FAQ
+  document.querySelectorAll('.faq-question').forEach(button => {
+    button.addEventListener('click', () => {
+      const item = button.parentElement;
+      item.classList.toggle('active');
+    });
+  });
+</script>
+  
+  
+  
+  </header>
     <section class="u-clearfix u-section-1" id="block-1">
       <div class="u-clearfix u-image u-sheet u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xs u-image-1" data-image-width="1400" data-image-height="560"></div>
     </section>
@@ -455,16 +469,12 @@
 
 
 
-</section> <script>
-  // Script Accordion FAQ
-  document.querySelectorAll('.faq-question').forEach(button => {
-    button.addEventListener('click', () => {
-      const item = button.parentElement;
-      item.classList.toggle('active');
-    });
-  });
-</script>
+</section>
 
+    <footer class="u-align-center u-clearfix u-container-align-center u-footer u-grey-80 u-footer" id="footer"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1"> Disclaimer: This is an unofficial fan site for Papa’s Freezeria. All trademarks, copyrights, and other intellectual property belong to their respective owners. This site is not endorsed by or affiliated with Flipline Studios.</p>
+      </div></footer>
 
+	  
 
 </body></html>
