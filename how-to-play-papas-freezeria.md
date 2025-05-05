@@ -4,6 +4,10 @@ title: How to Play Papa's Freezeria
 permalink: /how-to-play-papas-freezeria/
 ---
 
+<header>
+  <img src="{{ '/images/1400x560.png' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;">
+</header>
+
 # How to Play Papa's Freezeria
 
 Ready to master Papa's Freezeria? Follow this step-by-step guide to serve perfect sundaes and satisfy every customer.
