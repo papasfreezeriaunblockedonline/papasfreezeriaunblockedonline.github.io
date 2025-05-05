@@ -3,5 +3,4 @@ description: All about Papa's Freezeria – play, explore, enjoy!
 remote_theme: jekyll-theme-dark
 plugins:
   - jekyll-remote-theme
-plugins:
   - jekyll-sitemap
