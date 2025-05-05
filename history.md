@@ -5,6 +5,8 @@ title: Game History of Papa's Freezeria
 permalink: /history/
 ---
 
+# Game History of Papa's Freezeria
+
 From humble Flash roots to a multi-platform hit, learn how Papa's Freezeria evolved and endured.
 
 [▶️ Play Unblocked](https://magbei.com/play-papas-freezeria-game-online/)
