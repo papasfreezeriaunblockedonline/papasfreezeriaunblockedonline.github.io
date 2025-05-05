@@ -1,8 +1,7 @@
-<!-- history.md -->
 ---
-layout: page
-title: Game History of Papa's Freezeria
-permalink: /history/
+layout: default
+title: All Versions of Papa's Freezeria
+permalink: /versions/
 ---
 
 # Game History of Papa's Freezeria
