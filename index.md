@@ -1,7 +1,7 @@
 <!-- index.md -->
 ---
 layout: home
-title: Papa's Freezeria Fan Site\---
+title: Papa's Freezeria Fan Site
 
 Welcome to the ultimate Papa's Freezeria fan site! Dive into guides, version history, and tips to serve the sweetest sundaes on Calypso Island—all in one place.
 
