@@ -1,6 +1,5 @@
-<!-- papas-freezeria-unblocked.md -->
 ---
-layout: page
+layout: default
 title: Play Papa's Freezeria Unblocked
 permalink: /papas-freezeria-unblocked/
 ---
