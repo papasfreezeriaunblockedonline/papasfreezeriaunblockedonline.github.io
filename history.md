@@ -7,6 +7,8 @@ permalink: /history/
 
 From humble Flash roots to a multi-platform hit, learn how Papa's Freezeria evolved and endured.
 
+[▶️ Play Unblocked](https://magbei.com/play-papas-freezeria-game-online/)
+
 ## 2011: Flash Launch
 - Teaser on YouTube (June 21, 2011)
 - Official release on Armor Games (Aug 5, 2011)
