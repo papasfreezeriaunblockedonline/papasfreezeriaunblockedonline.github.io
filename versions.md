@@ -4,6 +4,10 @@ title: All Versions of Papa's Freezeria
 permalink: /versions/
 ---
 
+<header>
+  <img src="{{ '/images/1400x560.png' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;">
+</header>
+
 # All Versions of Papa's Freezeria
 
 Explore every release of Papa's Freezeria, from the original Flash game to the Deluxe Steam edition and mobile ports.
