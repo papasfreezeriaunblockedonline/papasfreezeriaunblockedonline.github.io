@@ -4,6 +4,10 @@ title: Play Papa's Freezeria Unblocked
 permalink: /papas-freezeria-unblocked/
 ---
 
+<header>
+  <img src="{{ '/images/1400x560.png' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;">
+</header>
+
 # Play Papa's Freezeria Unblocked
 
 Blocked at school or work? Access Papa's Freezeria safely via emulators and unblocked portals.
