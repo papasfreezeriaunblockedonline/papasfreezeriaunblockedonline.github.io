@@ -1,6 +1,5 @@
-<!-- versions.md -->
 ---
-layout: page
+layout: default
 title: All Versions of Papa's Freezeria
 permalink: /versions/
 ---
