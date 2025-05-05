@@ -1,6 +1,5 @@
-<!-- index.md -->
 ---
-layout: home
+layout: default
 title: Papa's Freezeria Fan Site
 ---
 
