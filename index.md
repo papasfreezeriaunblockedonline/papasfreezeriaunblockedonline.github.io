@@ -27,7 +27,6 @@ Papa's Freezeria launched as a Flash game on August 5, 2011, becoming a browser 
 
 - [How to Play](./how-to-play-papas-freezeria.md)
 - [All Versions](./versions.md)
-
 - [Unblocked Play](./papas-freezeria-unblocked.md)
 
 <!-- Updated links -->
