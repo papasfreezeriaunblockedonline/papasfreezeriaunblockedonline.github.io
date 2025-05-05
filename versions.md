@@ -22,3 +22,7 @@ Launched on March 31, 2023, featuring HD graphics, new customers, expanded food 
 
 ### 4. HTML5 Ports
 Browser-based versions on CrazyGames, Poki, and MAGBEI—no Flash required.
+
+---
+
+_Disclaimer: This is an unofficial fan site. All trademarks and rights belong to their respective owners._
