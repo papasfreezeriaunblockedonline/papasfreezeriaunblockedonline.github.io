@@ -1,6 +1,5 @@
-<!-- how-to-play-papas-freezeria.md -->
 ---
-layout: page
+layout: default
 title: How to Play Papa's Freezeria
 permalink: /how-to-play-papas-freezeria/
 ---
