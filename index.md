@@ -3,6 +3,10 @@ layout: default
 title: Papa's Freezeria Fan Site
 ---
 
+<header>
+  <img src="{{ '/images/1400x560.png' | relative_url }}" alt="Header Image" style="width: 100%; height: auto;">
+</header>
+
 # Papa's Freezeria Fan Site
 
 Welcome to the ultimate Papa's Freezeria fan site! Dive into guides, version history, and tips to serve the sweetest sundaes on Calypso Island—all in one place.
