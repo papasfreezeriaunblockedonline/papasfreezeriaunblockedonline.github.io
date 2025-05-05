@@ -21,3 +21,7 @@ Use Ruffle or Flashpoint to resurrect the 2011 Flash original—no browser plugi
 ## Recommended Platforms
 
 We recommend MAGBEI for a fast, ad-light experience compatible with Chromebooks and restricted networks.
+
+---
+
+_Disclaimer: This is an unofficial fan site. All trademarks and rights belong to their respective owners._
