@@ -1,6 +1,5 @@
 title: Papa's Freezeria Fan Site
 description: All about Papa's Freezeria – play, explore, enjoy!
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: jekyll-theme-dark
 plugins:
   - jekyll-remote-theme
-show_downloads: false
