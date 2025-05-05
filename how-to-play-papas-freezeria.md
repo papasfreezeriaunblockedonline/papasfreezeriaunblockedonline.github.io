@@ -30,3 +30,7 @@ A: No. Use emulators like Ruffle or play HTML5 ports on CrazyGames and MAGBEI.
 
 **Q: How do I unlock toppings?**  
 A: Earn in-game money and badges to unlock new syrups and candies.
+
+---
+
+_Disclaimer: This is an unofficial fan site. All trademarks and rights belong to their respective owners._
