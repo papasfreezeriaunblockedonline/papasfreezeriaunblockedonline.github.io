@@ -23,3 +23,7 @@ Adobe ends Flash support in December. Community preserves the game using Ruffle 
 
 ## 2023: Steam Deluxe
 New edition debuts on March 31 with modern enhancements and custom lobby features.
+
+---
+
+_Disclaimer: This is an unofficial fan site. All trademarks and rights belong to their respective owners._
